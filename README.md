@@ -1,0 +1,5 @@
+# New-York-Crime-Visualization
+Crimes  are  fundamental  social  issues  influencing personal satisfaction, financial development, and notoriety of a nation. Violations are one of the central points to influence essential  choices  in  a  person's  life,  like  moving  homes, avoiding dangerous  neighborhoods,  not  going out  at night. Violations  influence  and  shape  the  picture  of  a  network. Similarly,  crimes  influence  the  economy  of  a  country  by putting fiscal  weight on  government, requiring extra  police officers,  courts,  and  administration.    Reducing  crime  has become  challenging  due  to  the  rate  at  which  they  occur.
+
+In this project, I am analysing the increasing crime rates in New York city and exploring the reasons behind it is the main inspiration.
+Performed analysis on large variety of dataset to investigate what factors are driving people to commit crimes & relationships that influence these cities to have a greater disposition to crime. Performed data pre-processing using scaled population column to ratio, correlation calculation, logistic Regression & used various regression models in R.
